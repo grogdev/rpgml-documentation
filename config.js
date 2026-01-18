@@ -1,5 +1,5 @@
 const config = {
-    description:"Documentation for Your Project",
+    description:"RPG Systems Library",
   name:"RPGML",
   latestVersion:"Version",
   otherVersions:null,
